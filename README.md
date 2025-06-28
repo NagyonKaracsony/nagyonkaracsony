@@ -18,7 +18,6 @@
 #### My stats:
 
 ![Karácsony's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyonkaracsony&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=0)
-
 ![Karácsony's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagyonKaracsony&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=0)
 
 ![Karácsony's Language stats](https://github-readme-stats.vercel.app/api/wakatime?username=NagyonKaracsony&theme=tokyonight&cache_seconds=0&hide=Unity,uniity)
