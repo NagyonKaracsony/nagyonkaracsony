@@ -17,7 +17,20 @@
 
 #### My stats:
 
-![Karácsony's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyonkaracsony&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=0)
-![Karácsony's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagyonKaracsony&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=0)
+###
 
-![Karácsony's Language stats](https://github-readme-stats.vercel.app/api/wakatime?username=NagyonKaracsony&theme=tokyonight&cache_seconds=0&hide=Unity,uniity)
+<div align="center">
+  <a href="https://github.com/nagyonkaracsony?tab=repositories">
+    <img src="https://streak-stats.demolab.com?user=nagyonkaracsony&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height=150 align="center" alt="streak graph"  />
+  </a>
+  <a href="https://github.com/nagyonkaracsony">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagyonkaracsony&locale=en&hide_title=false&layout=compact&card_width=280&card_height=150&langs_count=7&theme=dark&hide_border=true&order=2" alt="languages graph" align="center" height=150 />
+  </a>
+  
+</div>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NagyonKaracsony&theme=dark&hide_border=true&cache_seconds=0&hide=Unity,uniity" alt="languages graph" align="center" width=600 />
+</div>
+
